@@ -1,0 +1,8 @@
+Junior shit:
+Run multiple containers as 5 executions of 'docker build'+'docker run' through simple script:
+run './manual_exec.sh' to build images and run containers
+run './manual_exec.sh stop' to stop containers.
+
+Uber Senior shit:
+Run multiple containers as one execution of 'docker compose':
+run 'docker compose up'

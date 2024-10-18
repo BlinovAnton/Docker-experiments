@@ -1,0 +1,2 @@
+DOCKER_ENV="Compose test docker (app2)"
+DOCKER_ENV_INT_ARG=2
